@@ -1,0 +1,6 @@
+{
+  "name": "OS Celular Pro - Ordem de Serviço Online & WhatsApp",
+  "description": "Sistema completo de Ordem de Serviço online para assistência técnica de celulares com integração automática ao WhatsApp, consulta online pelo cliente e checklist técnico.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
